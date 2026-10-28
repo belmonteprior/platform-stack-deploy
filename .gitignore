@@ -1,0 +1,14 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+*.tfvars
+!example.tfvars
+
+# Entornos y editores
+.venv/
+venv/
+.DS_Store
+.vscode/
+*.swp
