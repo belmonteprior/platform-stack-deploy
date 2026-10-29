@@ -1,0 +1,7 @@
+# Ficheros de estado y plugins de Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+*.tfvars
+.terraform.lock.hcl
